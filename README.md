@@ -15,7 +15,7 @@ I am a self-taught iOS Developer, and here you can find some of the projects I h
 </picture>
 </a>
 
-SPIntory is meant to solve the proble of inventory management for small businesses. At the time, my family business was dealing with small quantities of spare parts and we needed a better way to keep track of the current stock at any time instead of using a spreadsheet. The app allows the person responsible of the inventory to add the spare parts he needs to track, with each part having a unique part number. He then can perform either a purchase or a sale transaction on previously saved parts and the current stock updates automatically.
+SPIntory is meant to solve the problem of inventory management for small businesses. At the time, my family business was dealing with small quantities of spare parts and we needed a better way to keep track of the current stock at any time instead of using a spreadsheet. The app allows the person responsible of the inventory to add the spare parts he needs to track, with each part having a unique part number. He then can perform either a purchase or a sale transaction on previously saved parts and the current stock updates automatically.
 
 The app was written in Swift using UIKit and Core Data. I wrote all the UI code programmatically to preserve a single source of truth. The app was designed with Model View Controller in mind as to adhere to the same design paradigm of UIKit. I used the Coordinator pattern to manage the app's navigation.
 

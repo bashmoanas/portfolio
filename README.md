@@ -5,8 +5,12 @@ I am a self-taught iOS Developer, and here you can find some of the projects I h
 
 <a href="https://apps.apple.com/eg/app/spintory/id1543602143">
 <picture>
-  <source media="preferes-colors-scheme:light" srcset="https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452">
-  <source media="preferes-colors-scheme:dark" srcset="[https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452](https://github.com/bashmoanas/portfolio/assets/34455425/9399122d-1d72-4848-ac7c-cac3dba6f750)">
+  <source
+          media="(prefers-color-scheme:light)"
+          srcset="https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452">
+  <source
+          media="(prefers-color-scheme:dark)"
+          srcset="[https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452](https://github.com/bashmoanas/portfolio/assets/34455425/9399122d-1d72-4848-ac7c-cac3dba6f750)">
   <img alt="Shows the download on the App Store badge. Tap here to go the app page on the App Store." src="https://github.com/bashmoanas/portfolio/assets/34455425/9399122d-1d72-4848-ac7c-cac3dba6f750">
 </picture>
 </a>

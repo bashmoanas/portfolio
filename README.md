@@ -7,11 +7,12 @@ I am a self-taught iOS Developer, and here you can find some of the projects I h
 <picture>
   <source
           media="(prefers-color-scheme:light)"
-          srcset="https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452">
+          srcset="https://github.com/bashmoanas/portfolio/assets/34455425/1290f71a-6fe5-486c-a186-8c0015282611">
   <source
           media="(prefers-color-scheme:dark)"
-          srcset="[https://github.com/bashmoanas/portfolio/assets/34455425/d1f3db05-d905-4e36-804a-f7ea3e8b2452](https://github.com/bashmoanas/portfolio/assets/34455425/9399122d-1d72-4848-ac7c-cac3dba6f750)">
-  <img alt="Shows the download on the App Store badge. Tap here to go the app page on the App Store." src="https://github.com/bashmoanas/portfolio/assets/34455425/9399122d-1d72-4848-ac7c-cac3dba6f750">
+          srcset="https://github.com/bashmoanas/portfolio/assets/34455425/bfb768a6-a832-4881-96ac-6c19f44936a1">
+  <img alt="Shows the download on the App Store badge. Tap here to go the app page on the App Store."
+       src="https://github.com/bashmoanas/portfolio/assets/34455425/1290f71a-6fe5-486c-a186-8c0015282611">
 </picture>
 </a>
 
@@ -19,20 +20,21 @@ SPIntory is meant to solve the problem of inventory management for small busines
 
 The app was written in Swift using UIKit and Core Data. I wrote all the UI code programmatically to preserve a single source of truth. The app was designed with Model View Controller in mind as to adhere to the same design paradigm of UIKit. I used the Coordinator pattern to manage the app's navigation.
 
-![SPIntoryScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/bb07de2e-d600-4aa7-a42b-01b93e9df33b)
+
+
+![SPIntoryScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/f9130ad8-56af-44e7-98fd-e23da093637e)
 
 
 
-![SPIntoryScreenshots 002](https://github.com/bashmoanas/portfolio/assets/34455425/6f747078-8ebe-40e5-8703-b9d9e125d1e9)
+![SPIntoryScreenshots 002](https://github.com/bashmoanas/portfolio/assets/34455425/f79d1375-fbc6-42a3-a82c-9cf48727d54c)
 
 
 
-![SPIntoryScreenshots 003](https://github.com/bashmoanas/portfolio/assets/34455425/c1a18cd6-c358-4199-b01b-6107c88c3dc9)
+![SPIntoryScreenshots 003](https://github.com/bashmoanas/portfolio/assets/34455425/8a92be31-b840-4015-b040-f7951c909bc9)
 
 
 
-![SPIntoryScreenshots 004](https://github.com/bashmoanas/portfolio/assets/34455425/7ce20eae-cc01-4bb0-b924-8fa9e439d8e8)
-
+![SPIntoryScreenshots 004](https://github.com/bashmoanas/portfolio/assets/34455425/120bd26c-7e9a-40ac-a928-4d66208da10d)
 
 
 
@@ -48,7 +50,7 @@ The project is built using UIKit, MVC, with the model being managed by a store t
 
 
 
-![ToDoAppScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/7a224b4f-ef9b-4048-a9ba-5b2ef39983ab)
+![ToDoAppScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/2e5192ad-1775-490b-9a16-755517f8d69a)
 
 
 
@@ -58,7 +60,6 @@ Photorama reads a list of interesting photos from Flickr. The app saves the down
 
 
 
-![PhotoramaScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/a5aff7ff-1937-4d74-bfe4-afb0a071a9c8)
-
+![PhotoramaScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/c6ae490d-6cb6-4cf0-850f-2ff3f474deda)
 
 

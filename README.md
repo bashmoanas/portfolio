@@ -47,6 +47,19 @@ A task tracking app that allows the user to add, edit and delete items at famili
 
 The project is built using UIKit, MVC, with the model being managed by a store to separate the logic from the view controller. 
 
+
+
+![ToDoAppScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/7a224b4f-ef9b-4048-a9ba-5b2ef39983ab)
+
+
+
 ## Photorama
 
 Photorama reads a list of interesting photos from Flickr. The app saves the downloaded photos to disk. When the app relaunches, it first checks whether a photo is on the disk or not to avoid any unnecessary network call. If the image already exists, it's loaded from disk; if not, the app then send a request to download the image and then caches it for the future.
+
+
+
+![PhotoramaScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/a5aff7ff-1937-4d74-bfe4-afb0a071a9c8)
+
+
+

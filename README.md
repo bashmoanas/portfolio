@@ -19,6 +19,22 @@ SPIntory is meant to solve the problem of inventory management for small busines
 
 The app was written in Swift using UIKit and Core Data. I wrote all the UI code programmatically to preserve a single source of truth. The app was designed with Model View Controller in mind as to adhere to the same design paradigm of UIKit. I used the Coordinator pattern to manage the app's navigation.
 
+![SPIntoryScreenshots 001](https://github.com/bashmoanas/portfolio/assets/34455425/bb07de2e-d600-4aa7-a42b-01b93e9df33b)
+
+
+
+![SPIntoryScreenshots 002](https://github.com/bashmoanas/portfolio/assets/34455425/6f747078-8ebe-40e5-8703-b9d9e125d1e9)
+
+
+
+![SPIntoryScreenshots 003](https://github.com/bashmoanas/portfolio/assets/34455425/c1a18cd6-c358-4199-b01b-6107c88c3dc9)
+
+
+
+![SPIntoryScreenshots 004](https://github.com/bashmoanas/portfolio/assets/34455425/7ce20eae-cc01-4bb0-b924-8fa9e439d8e8)
+
+
+
 
 ## ToDoListApp
 

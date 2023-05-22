@@ -36,8 +36,7 @@ The app was written in Swift using UIKit and Core Data. I wrote all the UI code 
 
 
 
-## ToDoListApp
-
+## [ToDoListApp](https://github.com/bashmoanas/ToDoList)
 A task tracking app that allows the user to add, edit and delete items at familiar table-based interface. The app handles the following actions:
 - display the list
 - add items to the list
@@ -53,7 +52,7 @@ The project is built using UIKit, MVC, with the model being managed by a store t
 
 
 
-## Photorama
+## [Photorama](https://github.com/bashmoanas/Photorama)
 
 Photorama reads a list of interesting photos from Flickr. The app saves the downloaded photos to disk. When the app relaunches, it first checks whether a photo is on the disk or not to avoid any unnecessary network call. If the image already exists, it's loaded from disk; if not, the app then send a request to download the image and then caches it for the future.
 
